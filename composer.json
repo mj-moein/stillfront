@@ -1,0 +1,8 @@
+{
+  "name": "stillfront/stillfront",
+  "autoload": {
+    "psr-4": {
+      "Stillfront\\": "src/"
+    }
+  }
+}
